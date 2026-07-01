@@ -53,7 +53,7 @@ Para evitar que o usuário perca a noção do valor do dinheiro ou sinta ansieda
 
 1. Clone o repositório ou faça o download:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/planejai.git](https://github.com/SEU_USUARIO/planejai.git)
+   git clone https://github.com/D771n-ponto/planejai.git
 
 #### 2- Instale as dependências usando o pnpm (ou gerenciador de sua preferência):
 
