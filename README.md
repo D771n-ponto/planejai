@@ -1,4 +1,4 @@
-# 💡 Planej.ai – Educador Financeiro Inteligente & Acolhimento Mental
+# 💡 Planej.ai – Educador Financeiro Inteligente / Amigo Financeiro - Foco na Saúde do usuário 
 
 O **Amigo Financeiro** é uma aplicação web de planejamento financeiro pessoal com um grande diferencial: ele une **saúde financeira e saúde mental**. Entendendo que falar de dinheiro gera ansiedade e estresse, o sistema substitui tabelas complexas por uma abordagem clara, amigável e acolhedora, focando no consumo consciente e na inteligência emocional.
 
