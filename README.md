@@ -1,6 +1,6 @@
 # 💡 Planej.ai – Educador Financeiro Inteligente & Acolhimento Mental
 
-O **Planej.ai** é uma aplicação web de planejamento financeiro pessoal com um grande diferencial: ele une **saúde financeira e saúde mental**. Entendendo que falar de dinheiro gera ansiedade e estresse, o sistema substitui tabelas complexas por uma abordagem clara, amigável e acolhedora, focando no consumo consciente e na inteligência emocional.
+O **Amigo Financeiro** é uma aplicação web de planejamento financeiro pessoal com um grande diferencial: ele une **saúde financeira e saúde mental**. Entendendo que falar de dinheiro gera ansiedade e estresse, o sistema substitui tabelas complexas por uma abordagem clara, amigável e acolhedora, focando no consumo consciente e na inteligência emocional.
 
 ---
 
@@ -32,11 +32,9 @@ Para evitar que o usuário perca a noção do valor do dinheiro ou sinta ansieda
 
 ## 📸 Protótipo e Ideia em Desenvolvimento
 
-*(Substitua os links abaixo pelas imagens do seu projeto ou use os prints da sua ideia)*
-
 | Conceito do Projeto | Recursos Extras | Componentes de Mindful |
-| :---: | :---: | :---: |
-| ![Conceito](https://via.placeholder.com/300x200?text=Os+Tres+Baldes) | ![Recursos](https://via.placeholder.com/300x200?text=Botao+do+Impulso) | ![Mental](https://via.placeholder.com/300x200?text=Pausa+para+Respirar) |
+<img width="896" height="879" alt="image" src="https://github.com/user-attachments/assets/ea1279f0-4bc3-442c-a1ad-4bbc5cd3524c" />
+
 
 ---
 
